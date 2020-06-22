@@ -1,0 +1,9 @@
+main: me.cHeal.main.main
+name: cHeal
+author: TotallyNotCallum
+version: 420.69
+
+commands:
+  heal:
+    aliases: [cheal]
+    description: ehm, it heals you
